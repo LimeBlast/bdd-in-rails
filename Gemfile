@@ -22,6 +22,7 @@ group :development, :test do
   gem 'web-console', '~> 2.0.0.beta4'
   gem 'spring'
   gem 'rspec-rails'
+  gem 'rspec-activemodel-mocks'
 end
 
 group :test do
